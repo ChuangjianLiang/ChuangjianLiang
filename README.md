@@ -15,7 +15,7 @@ I have experience with the following languages, tools, and technologies:
 - **Languages**: C, Python, MATLAB, Arduino, Markdown, Lua, HTML, CSS
 - **Frameworks**:  PyTorch
 - **Software**: Ansys, Comsol, Solidworks, CAD 
-- **Tools:**: Git, ROS
+- **Tools**: Git, ROS
 
 # 📈 My Blogs
 - 📓[CSDN](https://blog.csdn.net/liam_lcj?spm=1000.2115.3001.5343)
