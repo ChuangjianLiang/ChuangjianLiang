@@ -27,7 +27,7 @@ I have experience with the following languages, tools, and technologies:
 | Component   | PC                       | Laptop                                 |
 |-------------|--------------------------|----------------------------------------|
 | CPU         | AMD Ryzen 7 5700x         | Intel i5-12500H   |
-| GPU         | AMD RTX4060 万图师 8GB     |      |
+| GPU         | RTX4060 万图师 8GB     |      |
 | RAM         | KLEVV DDR4-3200MHz 8*4GB | DDR4-3200MHz 8GB *2                    |
 | SSD         | ZhiTai TiPlus7100 1T              | SAMSUNG 512GB         |
 | HDD         | WDC Blue 2T                |                                        |
