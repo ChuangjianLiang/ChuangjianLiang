@@ -1,12 +1,11 @@
 # 👨‍💻 About Me
 
-Hello, I'm **Chuangjian Liang**. 👋 
+Hello, I'm **Chuangjian Liang**. 👋I am from Guangdong Province and I can speak Cantonese.
 
 - 🌱 I'm currently learning **new technologies**.
-- 🧑‍🎓 Major in **Mechanical Engineering**.
+- 🧑‍🎓 Major in **Mechanical Engineering(B.S.)** AND **Aeronautics and Astronautics(M.S.)**.
 - ❤️ I like **sports(swimming,running)**,**music(a big fan of Eason)**,**games(王者荣耀)**,
-- 📫 How to reach me：**21cjliang@stu.edu.cn** (Email)  .
-- ![Visitor Count](https://profile-counter.glitch.me/ChuangjianLiang/count.svg)
+- 📫 How to reach me：**cjliang25@m.fudan.edu.cn** (Email)  .
 
 # 🛠 Tech Stack
 
@@ -15,7 +14,7 @@ I have experience with the following languages, tools, and technologies:
 - **Languages**: C, Python, MATLAB, Arduino, Markdown, Lua, HTML, CSS
 - **Frameworks**:  PyTorch
 - **Software**: Ansys, Comsol, Solidworks, CAD 
-- **Tools**: Git, ROS
+- **Tools**: Git, ROS, Gazebo, RVIZ
 
 # 📈 My Blogs
 - 📓[CSDN](https://blog.csdn.net/liam_lcj?spm=1000.2115.3001.5343)
