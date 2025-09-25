@@ -4,7 +4,7 @@ Hello, I'm **Chuangjian Liang**. 👋I am from Guangdong Province and I can spea
 
 - 🌱 I'm currently learning **new technologies**.
 - 🧑‍🎓 Major in **Mechanical Engineering(B.S.)** AND **Aeronautics and Astronautics(M.S.)**.
-- ❤️ I like **sports(swimming,running)**,**music(a big fan of Eason)**,**games(王者荣耀)**,
+- ❤️ I like **sports(swimming,running)**,**music(a big fan of Eason)**,**games(Honor of Kings)**,
 - 📫 How to reach me：**cjliang25@m.fudan.edu.cn** (Email)  .
 
 # 🛠 Tech Stack
